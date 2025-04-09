@@ -6,6 +6,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;  
+    justify-items: auto;
     
 }
 
@@ -41,3 +42,4 @@ button {
     border-radius: 5px;
 
 }
+
