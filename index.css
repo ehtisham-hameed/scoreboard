@@ -6,7 +6,6 @@ body {
 .container {
     display: flex;
     justify-content: space-around;  
-    justify-items: auto;
     
 }
 
@@ -43,3 +42,7 @@ button {
 
 }
 
+.align {
+    display: flex;
+    justify-items: center;
+}
